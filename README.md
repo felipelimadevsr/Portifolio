@@ -1,10 +1,11 @@
-Portfólio - Felipe Lima
+# Portfólio - Felipe Lima
+---
 
 Bem-vindo ao meu portfólio! Aqui você encontrará uma coleção dos meus projetos, mostrando minhas habilidades, experiência e contribuições para o mundo da tecnologia.
 
 ---
 
-Sobre este repositório
+# Sobre este repositório
 
 ---
 
@@ -18,7 +19,7 @@ Este repositório contém um portfólio interativo desenvolvido para apresentar 
 
 ---
 
-Tecnologias Utilizadas
+# Tecnologias Utilizadas
 
 Este portfólio foi desenvolvido utilizando as seguintes tecnologias:
 
@@ -33,7 +34,7 @@ Este portfólio foi desenvolvido utilizando as seguintes tecnologias:
 
 ---
 
-Padrões de Arquitetura de Software
+# Padrões de Arquitetura de Software
 
 Para garantir escalabilidade, manutenibilidade e organização do código, foram adotados os seguintes padrões:
 
@@ -45,7 +46,7 @@ Para garantir escalabilidade, manutenibilidade e organização do código, foram
 
 ---
 
-Padrões de Codificação
+# Padrões de Codificação
 
 Para manter um código limpo e eficiente, seguimos as melhores práticas:
 
@@ -75,8 +76,8 @@ Padrões aplicados por classe:
 - Utils: Funções auxiliares para reutilização de lógica comum.
 
 ---
-
-Como Executar o Projeto
+# Como Executar o Projeto
+---
 
 # Clone o repositório
 git clone https://github.com/felipelimadevsr/Portifolio.git
@@ -92,7 +93,7 @@ npm run dev
 
 ---
 
-Contato
+# Contato
 
 Caso queira entrar em contato, fique à vontade para me encontrar nas seguintes plataformas:
 
