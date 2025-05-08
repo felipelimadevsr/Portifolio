@@ -1,0 +1,14 @@
+﻿using MapsApplication.Models;
+using MapsApplication.PageModels;
+
+namespace MapsApplication.Pages
+{
+    public partial class MainPage : ContentPage
+    {
+        public MainPage(MainPageModel model)
+        {
+            InitializeComponent();
+            BindingContext = model;
+        }
+    }
+}
