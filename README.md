@@ -6,6 +6,8 @@ Bem-vindo ao meu portfólio! Aqui você encontrará uma coleção dos meus proje
 
 Sobre este repositório
 
+---
+
 Este repositório contém um portfólio interativo desenvolvido para apresentar meus trabalhos e demonstrar minha evolução como desenvolvedor. Nele, você encontrará:
 
 - Projetos principais: Descrição dos projetos mais relevantes, tecnologias utilizadas e desafios enfrentados.
@@ -98,4 +100,7 @@ Caso queira entrar em contato, fique à vontade para me encontrar nas seguintes 
 - Twitter: https://twitter.com/felipelima
 - Email: felipe.lima@email.com
 
-Este projeto está em constante evolução! Caso tenha alguma sugestão ou queira contribuir, sinta-se à vontade para abrir uma issue ou um pull request. 🎉
+---
+
+Este projeto está em constante evolução! 
+Caso tenha alguma sugestão ou queira contribuir, sinta-se à vontade para abrir uma issue ou um pull request. 🎉
