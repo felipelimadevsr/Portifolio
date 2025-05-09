@@ -1,4 +1,4 @@
-# Portfólio - Felipe Lima
+# Portifólio - Felipe Lima
 ---
 
 Bem-vindo ao meu portfólio! Aqui você encontrará uma coleção dos meus projetos, mostrando minhas habilidades, experiência e contribuições para o mundo da tecnologia.
