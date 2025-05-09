@@ -2,10 +2,9 @@
 ![](https://user-images.githubusercontent.com/4394910/66942701-7ed30100-effe-11e9-9948-14012d4c3289.png)
 
 Bem-vindo ao meu portfólio! Aqui você encontrará uma coleção dos meus projetos, mostrando minhas habilidades, experiência e contribuições para o mundo da tecnologia.
+---
 
 # Sobre este repositório
-
----
 
 Este repositório contém um portfólio interativo desenvolvido para apresentar meus trabalhos e demonstrar minha evolução como desenvolvedor. Nele, você encontrará:
 
@@ -30,9 +29,7 @@ Este portfólio foi desenvolvido utilizando as seguintes tecnologias:
 - Testes: Jest, Cypress
 - Ferramentas de Desenvolvimento: ESLint, Prettier, Husky
 
----
-
-# Padrões de Arquitetura de Software
+#### Padrões de Arquitetura de Software
 
 Para garantir escalabilidade, manutenibilidade e organização do código, foram adotados os seguintes padrões:
 
@@ -42,9 +39,7 @@ Para garantir escalabilidade, manutenibilidade e organização do código, foram
 - RESTful APIs: Uso de boas práticas na construção das APIs para padronização das requisições e respostas.
 - Event-Driven Architecture: Utilização de eventos assíncronos para comunicação eficiente entre serviços.
 
----
-
-# Padrões de Codificação
+#### Padrões de Codificação
 
 Para manter um código limpo e eficiente, seguimos as melhores práticas:
 
@@ -53,7 +48,7 @@ Convenções de Código
 - Nomeação semântica e descritiva para variáveis, funções e classes.
 - Estrutura modular e reutilizável.
 
-Padrões de Código por Classes e Componentes
+#### Padrões de Código por Classes e Componentes
 
 Estrutura do projeto:
 src
@@ -66,34 +61,33 @@ src
  ├── index.tsx      # Ponto de entrada do frontend
  ├── server.ts      # Ponto de entrada do backend
 
-Padrões aplicados por classe:
+#### Padrões aplicados por classe:
 - Componentes React: Estruturados com funcionalidade separada (hooks e context API).
 - Services: Padronizados para interagir com APIs externas.
 - Models: Definição clara das entidades do sistema.
 - Controllers: Aplicação da lógica de negócios para manter separação de responsabilidades.
 - Utils: Funções auxiliares para reutilização de lógica comum.
-
 ---
+
 # Como Executar o Projeto
----
 
-# Clone o repositório
+#### Clone o repositório
 git clone https://github.com/felipelimadevsr/Portifolio.git
 
-# Acesse o diretório do projeto
+#### Acesse o diretório do projeto
 cd Portifolio
 
-# Instale as dependências
+#### Instale as dependências
 npm install
 
-# Execute o servidor de desenvolvimento
+#### Execute o servidor de desenvolvimento
 npm run dev
 
 ---
 
-# Contato
+## Contato
 
-Caso queira entrar em contato, fique à vontade para me encontrar nas seguintes plataformas:
+#### Caso queira entrar em contato, fique à vontade para me encontrar nas seguintes plataformas:
 
 - LinkedIn: https://www.linkedin.com/in/felipelima/
 - Twitter: https://twitter.com/felipelima
