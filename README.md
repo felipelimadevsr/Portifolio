@@ -1,9 +1,7 @@
 # Portifólio - Felipe Lima
----
+![](https://user-images.githubusercontent.com/4394910/66942701-7ed30100-effe-11e9-9948-14012d4c3289.png)
 
 Bem-vindo ao meu portfólio! Aqui você encontrará uma coleção dos meus projetos, mostrando minhas habilidades, experiência e contribuições para o mundo da tecnologia.
-
----
 
 # Sobre este repositório
 
@@ -19,7 +17,7 @@ Este repositório contém um portfólio interativo desenvolvido para apresentar 
 
 ---
 
-# Tecnologias Utilizadas
+#### Tecnologias Utilizadas
 
 Este portfólio foi desenvolvido utilizando as seguintes tecnologias:
 
